@@ -1,5 +1,11 @@
 # Data-Science-in-the-Wild
 
+## What is inside this Repo
+
+- 3 .csv files that contain the datasets connected with this course
+- 2 .ipynb files: Jupyter Notebooks containing the code 
+
+
 ## How to use the Jupyter Notebooks
 
 ### 1. Run the notebooks via GoogleColab
