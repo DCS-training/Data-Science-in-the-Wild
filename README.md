@@ -1,4 +1,11 @@
 # Data-Science-in-the-Wild
+Hello Everyone! This is the Readme File for the Data Science in the Wild course (delivered by the CDCS in 2022).
+
+This course is aimed at developing the skills to scope and implement preliminary data analysis at the early stages of a data science project.
+
+The material in this repo was developed and curated by **Bhargavi Ganesh**.
+
+All material collected here is free to use but is covered by a License: [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) license
 
 ## What is inside this Repo
 
