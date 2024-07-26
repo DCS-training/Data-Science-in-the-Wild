@@ -1,4 +1,4 @@
-# Data-Science-in-the-Wild
+# Data Science in the Wild
 Hello Everyone! This is the Readme File for the Data Science in the Wild course (delivered by the CDCS in 2022).
 
 This course is aimed at developing the skills to scope and implement preliminary data analysis at the early stages of a data science project.
