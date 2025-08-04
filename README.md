@@ -9,7 +9,8 @@ All material collected here is free to use but is covered by a License: [![Licen
 
 ## What is inside this Repo
 
-- 3 .csv files that contain the datasets connected with this course
+- 2 .csv files that contain the datasets connected with this course
+- 1 .xlsx file that contains the metadata of the Mortgage Dataset
 - 2 .ipynb files: Jupyter Notebooks containing the code 
 
 
